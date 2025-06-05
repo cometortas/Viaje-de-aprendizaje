@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi viaje de aprendizaje</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header, footer {
+      background-color: #004080;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+    section {
+      margin: 20px 0;
+      padding: 15px;
+      background-color: #ffffff;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    img {
+      max-width: 200px;
+      border-radius: 8px;
+    }
+    a {
+      color: #004080;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Mi viaje de aprendizaje</h1>
+  </header>
+
+  <section id="mi-historia">
+    <h2>Mi historia</h2>
+    <p>Mi nombre es [paredes carlos], curso [2b puericultura], y estudio en [cbtis118]. Desde que comencé mi educación, he experimentado muchos cambios personales y académicos que me han ayudado a crecer.</p>
+    <img src="mi-foto.jpg" alt="Mi fotografía">
+  </section>
+
+  <section id="logros-retos">
+    <h2>Mis logros y retos</h2>
+    <ul>
+      <li>Participación en la olimpiada de matemáticas - 1er lugar.</li>
+      <li>Mejor promedio del semestre en ciencias.</li>
+      <li>Superé la dificultad en la materia de física con estudio constante.</li>
+    </ul>
+  </section>
+
+  <section id="proyectos-realizados">
+    <h2>Proyectos realizados</h2>
+    <p>Estos son algunos proyectos importantes en los que he trabajado:</p>
+    <ul>
+      <li><a href="proyecto1.pdf">Investigación sobre energías renovables (PDF)</a></li>
+      <li><a href="proyecto2.mp4">Video presentación: Ciencia en casa</a></li>
+      <li><a href="proyecto3.jpg">Arte digital: “El futuro es verde”</a></li>
+    </ul>
+  </section>
+
+  <section id="metas-aspiraciones">
+    <h2>Metas y aspiraciones</h2>
+    <p>En el futuro, deseo estudiar una carrera en ingeniería ambiental. Me gustaría contribuir al desarrollo sostenible y trabajar en soluciones contra el cambio climático. Planeo mejorar mis habilidades en programación y ciencias exactas.</p>
+  </section>
+
+  <section id="lecciones-de-vida">
+    <h2>Lecciones de vida</h2>
+    <p>Durante mi trayectoria académica he aprendido que la constancia y la actitud positiva son clave para superar cualquier reto. A otros estudiantes les diría que nunca se rindan, que cada error es una oportunidad para aprender.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Mi viaje de aprendizaje - Creado por [carlos paredes torres]</p>
+  </footer>
+
+</body>
+</html>
